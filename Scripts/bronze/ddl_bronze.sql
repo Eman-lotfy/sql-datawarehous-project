@@ -1,4 +1,13 @@
-/* Create Bronze Tables */
+/* 
+--------------------------------------------------------
+Create Bronze Tables
+--------------------------------------------------------
+Script purpose:
+This script creates tables in the 'bronze' schema, dropping existing tables if they already exist.
+Run this script to re-define the DDl Structure of 'bronze' tables
+------------------------------------------------------
+
+*/
 
 
 
